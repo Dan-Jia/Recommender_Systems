@@ -1,4 +1,4 @@
-## Recommender_Systems
+## Recommender Systems in Python
 This repository contains **IPython Notebook** to implement **a recommender system** by respectively using algorithms:
 * K-Nearest Neighbors(K-NN)
 * Model-based Collaborative Filtering
